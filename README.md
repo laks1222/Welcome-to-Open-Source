@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/laks1222/">
+                    <img src="https://avatars.githubusercontent.com/u/124982995?v=4" width="100px;"
+                        alt="Laks" />
+                    <br />
+                    <sub>
+                        <b>laks</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
